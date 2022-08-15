@@ -6,7 +6,7 @@
 /*   By: apeinado <apeinado@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/09 12:18:07 by apeinado          #+#    #+#             */
-/*   Updated: 2022/08/15 11:14:41 by apeinado         ###   ########.fr       */
+/*   Updated: 2022/08/15 13:00:45 by apeinado         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,3 +31,4 @@ void	s_stack(t_stack **top)
 		(*top) = tmp;
 	}
 }
+asdfsdf
