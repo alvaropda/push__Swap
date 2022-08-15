@@ -31,4 +31,3 @@ void	s_stack(t_stack **top)
 		(*top) = tmp;
 	}
 }
-asdfsdf

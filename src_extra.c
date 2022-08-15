@@ -22,4 +22,3 @@ int	ft_abs(float num)
 	else
 		return ((int)num);
 }
-gchjfgasdas
